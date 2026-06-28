@@ -6,7 +6,7 @@
     "role": "Batsman",
     "basePrice": 200,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "role": "Batsman",
     "basePrice": 180,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "role": "Bowler",
     "basePrice": 220,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "role": "Bowler",
     "basePrice": 170,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "role": "All-Rounder",
     "basePrice": 250,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "role": "All-Rounder",
     "basePrice": 230,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "role": "Batsman",
     "basePrice": 160,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "role": "Bowler",
     "basePrice": 140,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "role": "Batsman",
     "basePrice": 150,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   },
   {
     "id": 10,
@@ -87,6 +87,6 @@
     "role": "All-Rounder",
     "basePrice": 155,
     "soldPrice": 0,
-    "isSold": false
+    "isSold": true
   }
 ]
