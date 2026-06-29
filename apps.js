@@ -54,6 +54,6 @@ players.forEach(player => {
         Role: ${player.role} 
         Team: ${player.team}  
         Base Price: ${player.basePrice}
-        Auction Price: ${player.auctionPrice}`
+        Sold Price: ${player.auctionPrice}`
     );
 });
