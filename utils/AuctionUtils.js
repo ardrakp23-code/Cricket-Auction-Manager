@@ -16,7 +16,7 @@ class AuctionUtils {
 
     // Add auction price
     static addAuctionPrice(player, price) {
-        player.auctionPrice = price;
+        player.auctionPrice = price ;
     }
 }
 
